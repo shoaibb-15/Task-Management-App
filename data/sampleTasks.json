@@ -1,0 +1,24 @@
+[
+  {
+    "id": "sample1",
+    "title": "Complete project proposal",
+    "description": "Draft and finalize the project proposal for the new client",
+    "dueDate": "2023-06-30",
+    "status": "pending"
+  },
+  {
+    "id": "sample2",
+    "title": "Review team performance",
+    "description": "Conduct quarterly performance reviews for team members",
+    "dueDate": "2023-07-15",
+    "status": "pending"
+  },
+  {
+    "id": "sample3",
+    "title": "Update website content",
+    "description": "Refresh the company website with new product information and blog posts",
+    "dueDate": "2023-07-05",
+    "status": "completed"
+  }
+]
+
