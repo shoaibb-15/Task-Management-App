@@ -1,16 +1,37 @@
+# 🗂️ Task Management Application
+
+A full-stack **Task Management Application** designed to help users create, organize, and track tasks effectively. The project utilizes **Next.js** for the frontend and **Spring Boot** for the backend, providing a seamless and robust user experience.
+
+---
+
 ## 🚀 Features
-- **Add, Edit, Delete Tasks:** Easily create new tasks, modify existing ones, or remove them when completed.
-- **Task Prioritization:** Set task priorities (High, Medium, Low).
-- **Status Tracking:** Mark tasks as pending, in progress, or completed.
-- **Responsive Design:** Fully optimized for desktops, tablets, and mobile devices.
+- **Task CRUD Operations:** Create, read, update, and delete tasks with ease.
+- **Task Prioritization:** Organize tasks based on priority levels Medium.
+- **Real-Time Status Updates:** Track task progress—Pending, In Progress, Completed.
+- **Responsive UI:** Optimized for desktops, tablets, and mobile devices.
+
+---
 
 ## 🛠️ Tech Stack
-- **Frontend:** React, Next.js
+### **Frontend (Next.js)**
+- **Framework:** Next.js 
+- **Styling:** Tailwind CSS 
 - **Package Manager:** npm
-- **Styling:** CSS/SCSS (or specify if you're using Tailwind, Bootstrap, etc.)
+
+### **Backend (Spring Boot)**
+- **Framework:** Spring Boot (RESTful APIs)
+- **Database:** MySQL 
+- **Build Tool:** Maven 
+
+---
 
 ## ⚡ Getting Started
 
 ### Prerequisites
-- **Node.js** (v14+ recommended)
+- **Node.js** (v14+)
 - **npm** (comes with Node.js)
+- **Java** (JDK 11+)
+- **Maven** 
+- **MySQL** (for database setup)
+
+
